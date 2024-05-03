@@ -1,2 +1,2 @@
-var text = "some text"
+var text = "Hello Silly"
 console.log(text)
